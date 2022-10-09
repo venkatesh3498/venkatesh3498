@@ -7,7 +7,7 @@ JavaScript Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://venkateswararao.netlify.app)
 * ✉️  You can contact me at [venkatesh.g3498@gmail.com](mailto:venkatesh.g3498@gmail.com)
-* 🚀  I'm currently working on [MernPos](http://mernpos.vercel.app)
+* 🚀  recently worked on [MernPos](http://mernpos.vercel.app)
 * 🧠  I'm learning NextJs,ExpressJs
 
 ### Skills
